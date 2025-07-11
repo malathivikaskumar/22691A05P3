@@ -21,3 +21,13 @@
 <img width="1733" height="800" alt="4" src="https://github.com/user-attachments/assets/62e25b92-4d56-4663-a388-40aaa0414fbb" />
 <br/>
 
+
+
+<b> frontend</b>
+<img width="1405" height="860" alt="6" src="https://github.com/user-attachments/assets/1bbafa42-b79d-4249-bcf7-912d5abafbcd" />
+<br/>
+<img width="1309" height="890" alt="7" src="https://github.com/user-attachments/assets/a37efb66-2d5e-4437-9da0-6ffaa956dd96" />
+<br/>
+
+
+
